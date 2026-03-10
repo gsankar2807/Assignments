@@ -25,7 +25,7 @@ else if(creditScore >= 650 && creditScore <= 750){
     }
 }
 else{
-      console.log(customerName + " The Loan Denied due to Low Credit Score");
+      console.log(customerName + " The Loan Denied because of Low Credit Score");
 }
 
     
